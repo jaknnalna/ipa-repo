@@ -1,0 +1,32 @@
+name: Publish IPA
+on:
+  push:
+    paths:
+      - "incoming/**"
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Move IPAs to Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          shopt -s nullglob
+          for f in incoming/*/*/*.ipa; do
+            bid=$(echo "$f" | cut -d/ -f2)
+            ver=$(echo "$f" | cut -d/ -f3)
+            tag="v${ver}-${bid}"
+            gh release view "$tag" >/dev/null 2>&1 || gh release create "$tag" --title "$bid $ver" --notes "" --target "$GITHUB_SHA"
+            gh release upload "$tag" "$f" --clobber
+            git rm -q "$f"
+          done
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+            git commit -m "Move IPAs to Releases"
+            git push
+          fi
