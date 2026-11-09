@@ -1,6 +1,29 @@
 {
-  "name": "AltStore",
+  "name": "sfr",
   "identifier": "com.jaknnalna.repo",
-  "apps": [],
+  "apps": [
+    {
+      "name": "kgyuuyg",
+      "bundleIdentifier": "com.btyy",
+      "developerName": "kkk",
+      "version": "5",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v5-com.btyy/-------.ipa",
+      "size": 818818,
+      "iconURL": "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.btyy/icon.png",
+      "screenshotURLs": [],
+      "localizedDescription": "",
+      "localizedDescriptionAR": "",
+      "versions": [
+        {
+          "version": "5",
+          "date": "2026-11-09",
+          "size": 818818,
+          "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v5-com.btyy/-------.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    }
+  ],
   "news": []
 }
