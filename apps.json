@@ -1,32 +1,6 @@
 {
   "name": "sfr",
   "identifier": "com.jaknnalna.repo",
-  "apps": [
-    {
-      "name": "احبك",
-      "bundleIdentifier": "hgcc",
-      "developerName": "",
-      "version": "8",
-      "versionDate": "2026-11-09",
-      "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v8-hgcc/TVTC.ipa",
-      "size": 8788674,
-      "iconURL": "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/hgcc/icon.png",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/hgcc/shot-1794185519347-1.png",
-        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/hgcc/shot-1794185522686-2.png"
-      ],
-      "localizedDescription": "",
-      "localizedDescriptionAR": "",
-      "versions": [
-        {
-          "version": "8",
-          "date": "2026-11-09",
-          "size": 8788674,
-          "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v8-hgcc/TVTC.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    }
-  ],
+  "apps": [],
   "news": []
 }
