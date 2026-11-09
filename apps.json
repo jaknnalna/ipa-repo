@@ -1,0 +1,31 @@
+{
+  "name": "AltStore",
+  "identifier": "com.jaknnalna.repo",
+  "apps": [
+    {
+      "name": "iugyuvu",
+      "bundleIdentifier": "com.uhvty",
+      "developerName": "",
+      "version": "2",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v1.0/default.ipa",
+      "size": 818818,
+      "iconURL": "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.uhvty/icon.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.uhvty/shot-1794183823504-1.png"
+      ],
+      "localizedDescription": "",
+      "localizedDescriptionAR": "",
+      "versions": [
+        {
+          "version": "2",
+          "date": "2026-11-09",
+          "size": 818818,
+          "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v1.0/default.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    }
+  ],
+  "news": []
+}
