@@ -11,7 +11,9 @@
       "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v5-com.btyy/-------.ipa",
       "size": 818818,
       "iconURL": "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.btyy/icon.png",
-      "screenshotURLs": [],
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.btyy/shot-1794185286464-1.png"
+      ],
       "localizedDescription": "",
       "localizedDescriptionAR": "",
       "versions": [
