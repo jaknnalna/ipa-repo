@@ -1,29 +1,6 @@
 {
-  "name": "sfr",
+  "name": "Ail",
   "identifier": "com.jaknnalna.repo",
-  "apps": [
-    {
-      "name": "Sna SR",
-      "bundleIdentifier": "com.toyopagroup.picaboo2",
-      "developerName": "",
-      "version": "13.68.1",
-      "versionDate": "2026-11-09",
-      "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v13.68.1-com.toyopagroup.picaboo2/Sna-SR_13.68.1_1792283658.ipa",
-      "size": 213931709,
-      "iconURL": "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.toyopagroup.picaboo2/icon.png",
-      "screenshotURLs": [],
-      "localizedDescription": "SnapPlus",
-      "localizedDescriptionAR": "سناب بلس",
-      "versions": [
-        {
-          "version": "13.68.1",
-          "date": "2026-11-09",
-          "size": 213931709,
-          "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v13.68.1-com.toyopagroup.picaboo2/Sna-SR_13.68.1_1792283658.ipa",
-          "localizedDescription": "SnapPlus"
-        }
-      ]
-    }
-  ],
+  "apps": [],
   "news": []
 }
