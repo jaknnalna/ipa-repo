@@ -1,36 +1,6 @@
 {
   "name": "Ail",
   "identifier": "com.jaknnalna.repo",
-  "apps": [
-    {
-      "name": "Snap",
-      "bundleIdentifier": "gov.tvtc.itvtclhiugiu",
-      "developerName": "",
-      "version": "12.24",
-      "versionDate": "2026-11-10",
-      "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v12.24-gov.tvtc.itvtc/TVTC.ipa",
-      "size": 8788674,
-      "iconURL": "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/gov.tvtc.itvtc/icon.png",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/gov.tvtc.itvtclhiugiu/shot-1794346333636-1.jpg",
-        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/gov.tvtc.itvtclhiugiu/shot-1794346333636-2.jpg",
-        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/gov.tvtc.itvtclhiugiu/shot-1794346333636-3.jpg",
-        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/gov.tvtc.itvtclhiugiu/shot-1794346333636-4.jpg",
-        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/gov.tvtc.itvtclhiugiu/shot-1794346333636-5.jpg",
-        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/gov.tvtc.itvtclhiugiu/shot-1794346333636-6.jpg"
-      ],
-      "localizedDescription": "",
-      "localizedDescriptionAR": "",
-      "versions": [
-        {
-          "version": "12.24",
-          "date": "2026-11-10",
-          "size": 8788674,
-          "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v12.24-gov.tvtc.itvtc/TVTC.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    }
-  ],
+  "apps": [],
   "news": []
 }
