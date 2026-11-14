@@ -1,6 +1,34 @@
 {
   "name": "Ail",
   "identifier": "com.jaknnalna.repo",
-  "apps": [],
+  "apps": [
+    {
+      "name": "alrajhi bank",
+      "bundleIdentifier": "com.safar.bank",
+      "developerName": "",
+      "version": "1.2",
+      "versionDate": "2026-11-14",
+      "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v1.2-com.safar.bank/alrajhi.bank.ipa",
+      "size": 929774,
+      "iconURL": "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.safar.bank/icon.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.safar.bank/shot-1794629071329-1.png",
+        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.safar.bank/shot-1794629071329-2.png",
+        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.safar.bank/shot-1794629071329-3.png",
+        "https://raw.githubusercontent.com/jaknnalna/ipa-repo/main/assets/com.safar.bank/shot-1794629071329-4.png"
+      ],
+      "localizedDescription": "",
+      "localizedDescriptionAR": "",
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2026-11-14",
+          "size": 929774,
+          "downloadURL": "https://github.com/jaknnalna/ipa-repo/releases/download/v1.2-com.safar.bank/alrajhi.bank.ipa",
+          "localizedDescription": ""
+        }
+      ]
+    }
+  ],
   "news": []
 }
